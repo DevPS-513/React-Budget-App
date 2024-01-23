@@ -1,4 +1,4 @@
 # Budjet App
-This is a budget app made in react
+This is a budget app made in react.Js
 
-![Example Image](WebsiteScreenshot.png)
+![Example Image](./FrontPagePic.png)
